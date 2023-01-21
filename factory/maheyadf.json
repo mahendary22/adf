@@ -1,0 +1,9 @@
+{
+	"name": "maheyadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e6bbb84e-477c-4257-a554-27d5e032f19e",
+		"tenantId": "e485910d-2a02-4dd3-a059-a4971d21c972"
+	}
+}
